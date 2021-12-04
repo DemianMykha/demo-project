@@ -1,0 +1,43 @@
+.hero{
+    background-color: lightpink;
+}
+.card-body-color{
+    background-color: whitesmoke;
+}
+
+.btn-white{
+    border: none;
+}
+.hero2{
+    width: 500px;
+}
+.c-red {
+    color:red;
+}
+.text-decoration{
+    text-decoration: none;
+    list-style: none;
+}
+.c-black{
+    color: black;
+}
+.bc-black{
+    background-color: #E5E5E5;
+}
+.btn-primary{
+    background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+    width: 201px;
+    height: 50px;
+    
+
+}
+.btn-outline-primary:hover{
+    background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+   
+}
+li {
+    text-decoration: none;
+}
+.btn-order{
+    outline:none;
+}
